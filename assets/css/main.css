@@ -10,7 +10,7 @@
     --gray: #c5c2c9;
     --mix_gray: #191919;
     --white: white;
-    --mix_white1: #e9e9e9;
+    --mix_white1: #1f1f1f;
     --mix_white2: #eeedeb;
     --black: #070707;
 
@@ -98,6 +98,9 @@ body{
 .home h4
 {
     color: var(--mix_white2);
+}
+.text{
+    color: #ffffff;
 }
 .home h2{
     font-size: 3rem;
